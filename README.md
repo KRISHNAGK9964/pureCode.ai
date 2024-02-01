@@ -16,7 +16,6 @@ The focus on responsive components is crucial for ensuring a consistent and user
 
 ### Robust Structure
 All components are robust and organized in a good folder structure.
-![Robust Structure]()
 
 ### AI Component Generation
 The AI prompt to generate components is a great feature, providing customization for different components.
@@ -108,10 +107,10 @@ Example:
 npx purecode-ui@latest add button
 ```
 
-
 ### Documentation
 Ensure comprehensive and easy-to-understand documentation for each component to facilitate smooth integration into projects.
 ![Documentation](docs.jpg)
+
 
 ## New Feature Ideas and Additions
 
